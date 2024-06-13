@@ -19,3 +19,5 @@
 
 * Operadores matemáticos (Aritméticos)
 * Operadore booleanos
+
+## Conversão de tipos
