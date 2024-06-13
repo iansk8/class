@@ -27,4 +27,4 @@
 * b00l() converte o valor para booleano;
 * float() converte o valor para decimal.
 
-##Estruturas de condicionais
+## Estruturas de condicionais
