@@ -20,13 +20,18 @@
 * Operadores matemáticos (Aritméticos)
 * Operadore booleanos
 
-## Conversão de tipos
+## Conversão de tipos:
 
 * int() converte o valor para inteiro;
 * str() converte o valor para string;
 * b00l() converte o valor para booleano;
 * float() converte o valor para decimal.
 
-## Estruturas de condicionais
+## Estruturas de condicionais:
 
-* if, elif e else são estruturas de controle de fluxo que permitem que um programa execute determinados blocos de código com base na avaliação de condições lógicas. 
+* if, elif e else são estruturas de controle de fluxo que permitem que um programa execute determinados blocos de código com base na avaliação de condições lógicas.
+
+## Laços de repetição:
+
+* while: é uma instrução de fluxo de controle que executa repetidamente um bloco de código até que a condição seja satisfeita;
+* for: é usado quando se quer iterar sobre um bloco de código um número determinado de vezes. 
