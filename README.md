@@ -35,3 +35,7 @@
 
 * while: é uma instrução de fluxo de controle que executa repetidamente um bloco de código até que a condição seja satisfeita;
 * for: é usado quando se quer iterar sobre um bloco de código um número determinado de vezes. 
+
+## Listas:
+
+### Listas são as estruturas de dados mais básicas de Python. Elas são estruturas de dados que permitem armazenar uma coleção ordenada de valores de diferentes tipos.
