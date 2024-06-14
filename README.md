@@ -28,3 +28,5 @@
 * float() converte o valor para decimal.
 
 ## Estruturas de condicionais
+
+* if, elif e else são estruturas de controle de fluxo que permitem que um programa execute determinados blocos de código com base na avaliação de condições lógicas. 
